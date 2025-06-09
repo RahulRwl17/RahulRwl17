@@ -2,7 +2,7 @@
 
 🎯 Aspiring Data Engineer | Data Analyst | AWS Learner  
 🚀 Building real-world projects using Python, SQL, PostgreSQL, Apache Airflow, and AWS  
-🛠️ Currently working on: [Major Crimes in Toronto Project](https://github.com/your-link)
+📊 Passionate about building pipelines, transforming data, and delivering insights with dashboards
 
 ---
 
@@ -24,7 +24,21 @@ ETL pipeline using Python, Airflow, PostgreSQL on AWS RDS. Includes dashboard an
 
 ---
 
+## 🌎 About Me
+
+✅ Currently focused on AWS-based data engineering projects
+
+✅ Learning through building: Every project is hands-on and structured around a real-world dataset
+
+✅ Self-taught, passionate about technology, and always seeking to improve
+
+---
+
 ## 📬 Contact
-📧 rahulrawal@email.com  
+📧 rwl.rahul17@gmail.com  
 📍 Toronto, ON  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/rawalrahul21/)
+
+---
+
+"I don't just build data pipelines. I build proof of potential."
